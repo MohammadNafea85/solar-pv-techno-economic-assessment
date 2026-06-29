@@ -1,0 +1,5 @@
+Scenario,Capacity_MW,CAPEX_MUSD,OPEX_annual_kUSD,Annual_Energy_GWh_Yr1,Capacity_Factor_pct,LCOE_USD_per_kWh,NPV_MUSD,IRR_pct,Payback_Years,Total_Energy_25yr_GWh,CO2_Avoided_25yr_kt
+Small (1 MW),1,0.75,15.0,1.87,21.4,0.049,0.65,16.38,7,44.1,20.7
+Medium (5 MW),5,3.4,65.0,9.35,21.4,0.0441,3.71,18.41,6,220.3,103.5
+Large (20 MW),20,12.4,230.0,37.41,21.4,0.0399,16.41,20.44,6,881.2,414.2
+Utility (50 MW),50,29.0,525.0,93.52,21.4,0.0372,43.66,22.0,5,2203.0,1035.4
